@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://pic.macked.app/static/94e189130a1c6989b83c2e400a28f8ca-1676653556.webp" width="200" alt="UltraEdit application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/UltraEdit">
+<a href="https://ysids-apps-hub.github.io/.github/UltraEdit">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open UltraEdit macOS product page">
 </a><br><br>
 <div align="center">
